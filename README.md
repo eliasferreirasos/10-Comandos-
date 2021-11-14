@@ -1,7 +1,7 @@
-# 10 Comandos .Git
-Projeto dio (spread) - DevBasic
+# 10 Comandos .Git / projeto basic. Dio
+Projeto dio (spread) bootcamp- DevBasic
 
-
+---
 
 1. Inicializa um novo repositório;
 
