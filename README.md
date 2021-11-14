@@ -1,2 +1,2 @@
-# 10-Comandos-
+# 10 Comandos .Git
 Projeto dio (spread) - DevBasic
